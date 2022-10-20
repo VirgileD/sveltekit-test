@@ -1,0 +1,9 @@
+workspace.code-workspace
+.svelte-kit/
+node_modules/
+mongodb/data/
+**/venv
+**/__pycache__
+*.xlsx
+data_scripts/data_directory/ps-radar
+build/
